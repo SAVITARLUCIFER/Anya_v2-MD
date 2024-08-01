@@ -8,7 +8,7 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Queen Anya Bot",
+    botname: process.env.BotName || "LUCIFER_Bot",
     footer: process.env.Footer || "© Queen Anya Bot",
     prefa: process.env.Prefix || "-",
     themeemoji: process.env.ThemeEmoji || "🎐",
@@ -16,9 +16,9 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
-    instagramId: process.env.Insta || "3.69_pika",
+    ownername: process.env.Owner_Name || "ARAKKAL LUCIFER",
+    ownernumber: process.env.Owner_Number || "917356466085",
+    instagramId: process.env.Insta || "__ARAKKAL_LUCIFER_",
 
     /**
      * other details and parameters
